@@ -4,7 +4,9 @@
 
 I'm Bavindu yeshan, a dedicated and enthusiastic software engineering student with a passion for technology and innovation. Currently pursuing my diploma in Software Engineering at Nibm , I thrive in environments where I can apply my problem-solving skills to create impactful solutions.
 
-Skills: c# / Python / C /Java/javascript/ HTML / CSS
+
+Languages: c# / Python / C /Java/javascript/ HTML / CSS
+
 
 
 
