@@ -15,3 +15,12 @@ Skills: Languages: c# / Python / C /Java/javascript/ HTML / CSS/ C#.net
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bavinduyeshan)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bavinduyeshan" alt="bavinduyeshan" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bavinduyeshan&show_icons=true&locale=en&layout=compact" alt="bavinduyeshan" /></p>
+
