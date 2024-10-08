@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bavindu Yeshan
  Undergraduate Software Engineer
-![Undergraduate Software Engineer](https://media.licdn.com/dms/image/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1727913600&v=beta&t=2yNE4CsxOA4IYuutZz0xPWXEu5dEDHreTEifLZM1_Pc)
+[Undergraduate Software Engineer](https://media.licdn.com/dms/image/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1727913600&v=beta&t=2yNE4CsxOA4IYuutZz0xPWXEu5dEDHreTEifLZM1_Pc)
 
 I'm Bavindu yeshan, a dedicated and enthusiastic software engineering student with a passion for technology and innovation. Currently pursuing my diploma in Software Engineering at Nibm , I thrive in environments where I can apply my problem-solving skills to create impactful solutions.
 
