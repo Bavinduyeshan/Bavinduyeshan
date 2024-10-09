@@ -2,6 +2,9 @@
 #### Undergraduate Software Engineer
 ![Undergraduate Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1733961600&v=beta&t=H4gMnCiSNfctp4b1f8xrcuJFcPHQbHQ_DAu3B-L2gmY)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bavinduyeshan&label=Profile%20views&color=0e75b6&style=flat" alt="bavinduyeshan" /> </p>
+
 I'm Bavindu yeshan, a dedicated and enthusiastic software engineering student with a passion for technology and innovation. Currently pursuing my diploma in Software Engineering at Nibm , I thrive in environments where I can apply my problem-solving skills to create impactful solutions.
 
 Skills: Languages: c# / Python / C /Java/javascript/ HTML / CSS/ C#.net
