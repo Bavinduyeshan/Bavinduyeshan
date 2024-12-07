@@ -36,16 +36,14 @@ I'm Bavindu Yeshan, a dedicated and enthusiastic software engineering student pa
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Bavinduyeshan&show_icons=true&theme=radical" alt="GitHub Stats" />  
+<p >  
+  <img src="https://github-readme-stats.vercel.app/api?username=Bavinduyeshan&show_icons=true&theme=radical" alt="GitHub Stats" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bavinduyeshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />  
 </p>  
 
 ---
 
 ### 🤝 Connect with Me  
-<p align="center">  
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">](https://github.com/Bavinduyeshan)  
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">](https://www.linkedin.com/in/BavinduYeshan/)  
-  [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40">](https://bavinduyeshan.netlify.app/)  
-</p>  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bavinduyeshan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/BavinduYeshan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bavinduyeshan.netlify.app/)  
+
+ 
