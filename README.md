@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bavindu Yeshan  
 #### Undergraduate Software Engineer  
+![Undergraduate Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1733961600&v=beta&t=H4gMnCiSNfctp4b1f8xrcuJFcPHQbHQ_DAu3B-L2gmY)
 
-![Undergraduate Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1733961600&v=beta&t=H4gMnCiSNfctp4b1f8xrcuJFcPHQbHQ_DAu3B-L2gmY(https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1739404800&v=beta&t=5PwJUeHaWqb_XKIfT2vPCsLaVrP5sL8kYonvobOjqBY))  
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=bavinduyeshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
