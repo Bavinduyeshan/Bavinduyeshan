@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bavindu Yeshan  
 #### Undergraduate Software Engineer  
-![Undergraduate Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1739404800&v=beta&t=5PwJUeHaWqb_XKIfT2vPCsLaVrP5sL8kYonvobOjqBY)
+![Undergraduate Software Engineer]([https://media.licdn.com/dms/image/v2/D5616AQElrDFHf8KMmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722593554971?e=1739404800&v=beta&t=5PwJUeHaWqb_XKIfT2vPCsLaVrP5sL8kYonvobOjqBY](https://media.licdn.com/dms/image/v2/D5616AQHdgO8kRF9xbg/profile-displaybackgroundimage-shrink_350_1400/B56ZdBhthuH8Ak-/0/1749151046684?e=1757548800&v=beta&t=JJIjf67vKQfsdHEIdiJtdjVOndeTSVM7WOnmQnqbWkw))
 
 
 
