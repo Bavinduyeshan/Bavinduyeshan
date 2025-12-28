@@ -1,53 +1,85 @@
-### Hi there 👋, I'm Bavindu Yeshan  
-#### Undergraduate Software Engineer  
+### Hi there 👋, I'm Bavindu Yeshan
+
+#### Undergraduate Software Engineer
+
 ![Undergraduate Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQHdgO8kRF9xbg/profile-displaybackgroundimage-shrink_350_1400/B56ZdBhthuH8Ak-/0/1749151046684?e=1757548800&v=beta&t=JJIjf67vKQfsdHEIdiJtdjVOndeTSVM7WOnmQnqbWkw)
 
-
-
-
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bavinduyeshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>  
-
-I'm Bavindu Yeshan, a dedicated and enthusiastic software engineering student passionate about technology and innovation. I thrive in environments where I can apply my problem-solving skills to create impactful solutions. Currently pursuing my diploma in Software Engineering at NIBM, I'm continuously expanding my technical expertise.  
+I'm Bavindu Yeshan, a dedicated and enthusiastic software engineering student passionate about technology and innovation. I thrive in environments where I can apply my problem-solving skills to create impactful solutions. Currently pursuing my diploma in Software Engineering at NIBM, I'm continuously expanding my technical expertise.
 
 ---
 
-### 🛠️ Skills and Tools  
-#### Languages  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />  
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />  
-</p>  
+### 🛠️ Skills and Tools
 
-#### Frameworks & Tools  
-<p align="center">  
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />  
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />  
-</p>  
+#### Languages
 
----
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
 
-### 📈 GitHub Stats  
-<p >  
-  <img src="https://github-readme-stats.vercel.app/api?username=Bavinduyeshan&show_icons=true&theme=radical" alt="GitHub Stats" />  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bavinduyeshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />  
-</p>  
+#### Frameworks & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ---
 
-### 🤝 Connect with Me  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bavinduyeshan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/BavinduYeshan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bavinduyeshan-web.netlify.app/)  
+### 📈 GitHub Stats
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bavinduyeshan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Bavindu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bavinduyeshan&theme=radical&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Bavindu's GitHub Streak" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bavinduyeshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bavinduyeshan&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/Bavinduyeshan" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/BavinduYeshan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://bavinduyeshan-web.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bavinduyeshan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Bavinduyeshan">Bavindu Yeshan</a>
+</p>
