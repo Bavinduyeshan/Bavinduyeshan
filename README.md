@@ -42,7 +42,7 @@ I'm Bavindu Yeshan, a dedicated and enthusiastic software engineering student pa
 ### 📈 GitHub Stats  
 <p >  
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bavinduyeshan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bavinduyeshan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bavinduyeshan&layout=compact&langs_count=8&theme=algolia" />  
 </p>  
 
 ---
